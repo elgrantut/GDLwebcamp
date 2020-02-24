@@ -1031,9 +1031,19 @@
             padding: 10px;
             text-align: center;
         }
+        /** Calendario **/
+        
+        div.dia {
+            width: 50%;
+            float: left;
+        }
+        
+        div.dia:hover {
+            background-color: #e1e1e1;
+        }
         /* ==========================================================================
-   Helper classes
-   ========================================================================== */
+Helper classes
+========================================================================== */
         /*
  * Hide visually and from screen readers
  */
