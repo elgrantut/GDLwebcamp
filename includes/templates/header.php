@@ -6,6 +6,8 @@
     <title>GDLWEBCAMP</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#fafafa">
+
     <link rel="apple-touch-icon" href="icon.png">
     <!-- Place favicon.ico in the root directory -->
 
@@ -14,7 +16,8 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans|Oswald|PT+Sans:400,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css" />
     <link rel="stylesheet" href="css/main.css">
-    <meta name="theme-color" content="#fafafa">
+    <link rel="stylesheet" href="css/colorbox.css">
+    
 </head>
 
 <body>
@@ -59,7 +62,7 @@
             <nav class="navegacion-principal clearfix">
                 <a href="conferencia.php">Conferencia</a>
                 <a href="calendario.php">Calendario</a>
-                <a href="#">Invitados</a>
+                <a href="invitados.php">Invitados</a>
                 <a href="registro.php">Reservaciones</a>
             </nav>
         </div>

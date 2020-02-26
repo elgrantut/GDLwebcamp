@@ -82,7 +82,7 @@
 
                 <?php } // fin de foreach de dias ?>
 
-    </div>
+    </div> <!--calendario-->
 
     <?php $conn->close(); ?>
 
